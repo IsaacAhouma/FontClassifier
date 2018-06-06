@@ -1,0 +1,2 @@
+model_checkpoint_path: "/Users/andrewmartin/Dropbox/ml_challenge/model.ckpt"
+all_model_checkpoint_paths: "/Users/andrewmartin/Dropbox/ml_challenge/model.ckpt"
